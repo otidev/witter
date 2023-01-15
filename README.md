@@ -20,6 +20,10 @@ make
 
 ***
 
-To use Witter, go to the its executable directory and run Witter with `<your name> <the IP you want to connect to>` as the second and third arguments.
+To use Witter, go to the its executable directory and run Witter with
+
+`<your name> <the IP you want to connect to>`
+
+as the second and third arguments.
 
 For server mode, you only need to run WitterServ, with `<your name>` as the only argument.
