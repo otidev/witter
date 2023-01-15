@@ -26,4 +26,4 @@ To use Witter, go to the its executable directory and run Witter with
 
 as the second and third arguments.
 
-For server mode, you only need to run WitterServ, with `<your name>` as the only argument.
+For server mode, you only need to run WitterServ with `<your name>` as the only argument.
